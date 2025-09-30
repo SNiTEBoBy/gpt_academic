@@ -35,7 +35,7 @@ numpy
 rich
 
 
-llama-index-core==0.10.68
+llama-index-core==0.13.0
 llama-index-legacy==0.9.48
 llama-index-readers-file==0.1.33
 llama-index-readers-llama-parse==0.1.6
